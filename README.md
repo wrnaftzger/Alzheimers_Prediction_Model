@@ -1,4 +1,4 @@
-# csci_1070_final
+# Alzheimer's Prediction Model
 
 The goal of this project is to identify the variables that impact the development and severity of Alzheimer's disease. The goal of determining these factors and their correlation to Alzheimer's will in theory be used to predict and determine not only how to determine who is at risk for Alzheimer's but also help protect people from suffering from this disease.
 
